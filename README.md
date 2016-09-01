@@ -16,17 +16,16 @@ You will also need to have software installed to run and execute an [iPython Not
 
 The code is provided in the following notebook files:
 
-- ```StateFarmCode.py```: This is the main code for the State Farm data scientist interview project.
-- ```BasicFunctions.py```: This is a Python coding interview quiz from State Farm.
+- ```Geico.ipynb```: This is the main code for the Geico data scientist interview project.
 
 ## Run
 
-In a terminal or command window, navigate to the top-level project directory `StateFarm/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Geico/` (that contains this README) and run one of the following commands:
 
-```python Geico.py```  
+```python Geico.ipynb```  
 
 This will run the code and output the result in the directory.
 
 ## Data
 
-- ```Data for Cleaning and Modeling.csv```
+- ``````
