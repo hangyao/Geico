@@ -23,9 +23,10 @@ The code is provided in the following notebook files:
 
 In a terminal or command window, navigate to the top-level project directory `Geico/` (that contains this README) and run one of the following commands:
 
-```python Geico.ipynb```  
+```ipython notebook Geico.ipynb```
+```jupyter notebook Geico.ipynb```
 
-This will run the code and output the result in the directory.
+This will open the iPython Notebook software and project file in your browser.
 
 ## Data
 
