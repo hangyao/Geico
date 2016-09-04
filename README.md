@@ -1,5 +1,6 @@
 # Geico
 This project is a part of Geico technical interview for Data Scientist.
+```Mini-Project Description and Data Def3.docx``` is the instruction file.
 
 ## Install
 
