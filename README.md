@@ -1,5 +1,6 @@
 # Geico
 This project is a part of Geico technical interview for Data Scientist.
+
 ```Mini-Project Description and Data Def3.docx``` is the instruction file.
 
 ## Install
@@ -24,6 +25,7 @@ The code is provided in the following notebook files:
 In a terminal or command window, navigate to the top-level project directory `Geico/` (that contains this README) and run one of the following commands:
 
 ```ipython notebook Geico.ipynb```
+
 ```jupyter notebook Geico.ipynb```
 
 This will open the iPython Notebook software and project file in your browser.
