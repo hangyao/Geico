@@ -32,4 +32,4 @@ This will open the iPython Notebook software and project file in your browser.
 
 ## Data
 
-- ```DS_MiniProject_ANON.csv```
+- ```DS_MiniProject_ANON.csv```: This is the data file.
